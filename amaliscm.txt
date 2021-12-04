@@ -4,9 +4,9 @@
 
 <h1>Ujian Amali Source Code Management</h1>
 
-<p>Github dan Git</p>
-<p>Makmal computer 1</p>
-<p>Bengkel Teknologi Perisian Pengaturcaraan</p>
+<p>-Github dan Git</p>
+<p>-Makmal computer 1</p>
+<p>-Bengkel Teknologi Perisian Pengaturcaraan</p>
 
 </body>
 </html>
